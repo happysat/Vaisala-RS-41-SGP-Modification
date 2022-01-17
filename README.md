@@ -20,12 +20,12 @@
         <div class="article">
           <h1><font style="font-size: 20pt" size="5">Vaisala RS-41 SGP
               Modification.</font> </h1>
-          <p class="siteSub"><br>
+          <p class="siteSub">
           </p>
-          <div class="articleRight"> <img src="img/rs41.png" alt="rs41"
-              width="71" height="130"><br>
-            Viasala RS-41<br>
+          <div class="articleRight">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img
+              src="img/rs1.png" alt="rs41" width="79" height="270">&nbsp;
           </div>
+          <br>
           <p style="user-select: auto !important; margin: 0px 0px 20px;
             padding: 0px; border: 0px; outline: 0px; font-size: 15px;
             vertical-align: baseline; background: 0px 0px rgb(255, 255,
@@ -87,10 +87,9 @@
           </p>
           <br>
           <div class="contentsPanel">
-            <div class="contentsHeader">Contents</div>
+            <div class="contentsHeader">Contents:</div>
+            <br>
             <ul>
-              <li> <span>1</span>Overview
-                <ul>
                   <li><span>1.1&nbsp; <a href="#Hardware_Details_">Hardware
                         Details</a></span> </li>
                   <li><span>1.2&nbsp; <a href="#Needed_Stuff_">Needed
@@ -98,20 +97,20 @@
                   <li><span>1.3&nbsp; <a href="#RS-41_Connector_">RS-41
                         Connector</a><br>
                     </span></li>
-                  <li><span>1.4 </span><a
+                  <li><span>1.4&nbsp; </span><a
                       href="#ST-Link_STM32_Connection_">ST-LINK STM32
                       Connection</a></li>
                   <li>1.5&nbsp; <a
                       href="#Orginal_Firmware_and_Terminal_Connection">Orginal
                       Firmware and Service Menu </a><br>
                   </li>
-                  <li><span>1.6</span><a href="#Firmware_">Modified
+                  <li><span>1.6&nbsp; </span><a href="#Firmware_">Modified
                       Firmware</a> </li>
                   <li><span>1.7&nbsp; <a href="#Program_and_Flashing_">Program
                         and Flashing</a></span></li>
                   <li><span>1.8&nbsp; <a href="#Horus-Decoder_">Horus-Decoder</a><br>
                     </span></li>
-                  <li><span>1.9</span><a href="#OM3BC_Firmware_">OM3BC
+                  <li><span>1.9&nbsp; </span><a href="#OM3BC_Firmware_">OM3BC
                       Firmware</a><a href="#Zilog_DFM_Decoder_Scripts_"><br>
                     </a></li>
                 </ul>
@@ -153,13 +152,6 @@ href="https://www.vaisala.com/en/products/instruments-sensors-and-other-measurem
             target="_blank">RS-41 Details Thanks to Bazjo</a><br>
           <h2><a name="Needed_Stuff_"></a>Needed Stuff<br>
           </h2>
-          <div class="articleRight">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img
-              src="img/rs1.png" alt="rs41" width="79" height="270">&nbsp;
-            <br>
-            &nbsp;&nbsp;&nbsp; RS-41&nbsp; SGP
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <br>
-          </div>
           <br>
           USB-TTL converter.<br>
           Some wires and connectors.<br>
@@ -491,9 +483,6 @@ href="https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads"
           <br>
           Use the newly created bin or hex file to flash the RS-41.<br>
           <br>
-          <a href="http://happysat.nl/HAB/HAB.html" target="_blank">Example
-            Flights overhere</a><br>
-          <br>
           <h2><a name="Program_and_Flashing_"></a>Program and
             Flashing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br>
@@ -755,12 +744,6 @@ href="https://drive.google.com/open?id=160_7nVCYmewZSPXMG9on-2Gah_uHO5KP"
               target="_blank">FLdigi Windows</a></p>
           <p>ST-LINK STM32 / USB-TTL Converter can be found on Ali/Ebay.</p>
         </div>
-        <div class="pagefooter"> This page was last edited on 19.01.2021
-          | Vaisala RS-41 Modification by Happysat </div>
-      </div>
     </div>
-    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
-    <script src="script.js"></script>
   </body>
 </html>
