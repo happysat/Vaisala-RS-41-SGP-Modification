@@ -1,19 +1,15 @@
-# Vaisala-RS-41-SGP-Modification.
-Vaisala RS-41 SGP Modification.
 <!DOCTYPE html>
 <html class="no-js" lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Vaisala RS-41 SGP Modification</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="canonical" href="http://html5-templates.com/">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <!-- Place favicon.ico in the root directory -->
     <link rel="stylesheet" href="style.css">
-    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   </head>
   <body>
     <!--[if lt IE 8]>
