@@ -148,6 +148,11 @@ href="https://www.vaisala.com/en/products/instruments-sensors-and-other-measurem
           <p style="margin-bottom: 0cm">1 - The LED goes out.<br>
             2 - And the transmitter operates at full power.</p>
           <br>
+          PE2BZ - The point inside the red "rectangle" represents a source of power connection from 1 single 1.5 V battery, outside the switch.
+          Operation goes up to 0.85 volts.</p>
+          <br>
+          <img src="img/RS41_pwr_conn.jpg" alt="" width="385" height="354"><br>
+          <br>
           <a href="https://github.com/bazjo/RS41_Hardware"
             target="_blank">RS-41 Details Thanks to Bazjo</a><br>
           <h2><a name="Needed_Stuff_"></a>Needed Stuff<br>
